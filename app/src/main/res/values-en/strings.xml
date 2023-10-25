@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PersonalNotesPlus</string>
+    <string name="ejemDate">dd-mm-yyyy</string>
+    <string name="nota">Note</string>
+    <string name="mas">+</string>
+    <string name="ejemTitol">supermarket list</string>
+    <string name="volver">Return</string>
+    <string name="eliminar">Delete</string>
+    <string name="cancelar">Cancel</string>
+    <string name="guardar">Save</string>
+    <string name="ejemContingut">Tomatoes\nOnion\nPotatoes\nApples.</string>
+    <string name="caducitat">Expiration:</string>
+    <string name="contingut">Contents:</string>
+    <string name="titol">Title:</string>
+    <string name="vacio"></string>
+    <string name="notesCaducades">Expired notes</string>
+    <string name="nuevaNota">New note</string>
+    <string name="notesNoCaducades">Not expired notes</string>
+    <string name="llistaoTaula">List/Table</string>
+    <string name="allNotes">All notes</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itemNuevaNota"
+        android:title="@string/nuevaNota" />
+    <item
+        android:id="@+id/itemNotesCaducades"
+        android:title="@string/notesCaducades" />
+    <item
+        android:id="@+id/itemNotesNoCaducades"
+        android:title="@string/notesNoCaducades" />
+    <item
+        android:id="@+id/itemAllNotes"
+        android:title="@string/allNotes" />
+    <item
+        android:id="@+id/itemLlistaoTaula"
+        android:title="@string/llistaoTaula" />
+</menu>

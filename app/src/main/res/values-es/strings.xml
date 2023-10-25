@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PersonalNotesPlus</string>
+    <string name="ejemDate">dd-mm-aaaa</string>
+    <string name="ejemTitol">Lista Super</string>
+    <string name="guardar">Guardar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="volver">Volver</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="mas">+</string>
+    <string name="nota">Nota</string>
+    <string name="ejemContingut">Tomates\nCebolla\nPatatas\nManzanas.</string>
+    <string name="contingut">Contenido:</string>
+    <string name="caducitat">Caducidad:</string>
+    <string name="titol">Título:</string>
+    <string name="vacio"></string>
+    <string name="nuevaNota">Nueva nota</string>
+    <string name="notesCaducades">Notas caducadas</string>
+    <string name="notesNoCaducades">Notas no caducadas</string>
+    <string name="llistaoTaula">Lista/Tabla</string>
+    <string name="allNotes">"Todas las notas "</string>
+</resources>
